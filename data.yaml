@@ -1,0 +1,9 @@
+names:
+- Pothole
+- Trash_Can_Closed
+- Trash_Can_Empty
+- Trash_Can_Full
+nc: 4
+test: ../test/images
+train: ../train/images
+val: ../valid/images
